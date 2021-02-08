@@ -1,0 +1,14 @@
+C:\Users\ricky\source\repos\CognitiveComputing\CognitiveComputing\bin\Debug\CognitiveComputing.exe.config
+C:\Users\ricky\source\repos\CognitiveComputing\CognitiveComputing\bin\Debug\CognitiveComputing.exe
+C:\Users\ricky\source\repos\CognitiveComputing\CognitiveComputing\bin\Debug\CognitiveComputing.pdb
+C:\Users\ricky\source\repos\CognitiveComputing\CognitiveComputing\obj\Debug\CognitiveComputing.csprojAssemblyReference.cache
+C:\Users\ricky\source\repos\CognitiveComputing\CognitiveComputing\obj\Debug\CognitiveComputing.Properties.Resources.resources
+C:\Users\ricky\source\repos\CognitiveComputing\CognitiveComputing\obj\Debug\CognitiveComputing.SplashScreen.resources
+C:\Users\ricky\source\repos\CognitiveComputing\CognitiveComputing\obj\Debug\CognitiveComputing.csproj.GenerateResource.cache
+C:\Users\ricky\source\repos\CognitiveComputing\CognitiveComputing\obj\Debug\CognitiveComputing.csproj.CoreCompileInputs.cache
+C:\Users\ricky\source\repos\CognitiveComputing\CognitiveComputing\obj\Debug\CognitiveComputing.exe
+C:\Users\ricky\source\repos\CognitiveComputing\CognitiveComputing\obj\Debug\CognitiveComputing.pdb
+C:\Users\ricky\source\repos\CognitiveComputing\CognitiveComputing\obj\Debug\CognitiveComputing.Form1.resources
+C:\Users\ricky\source\repos\CognitiveComputing\CognitiveComputing\obj\Debug\CognitiveComputing.NewFaultForm.resources
+C:\Users\ricky\source\repos\CognitiveComputing\CognitiveComputing\obj\Debug\CognitiveComputing.InfoBox.resources
+C:\Users\ricky\source\repos\CognitiveComputing\CognitiveComputing\obj\Debug\CognitiveComputing.Statistics.resources
